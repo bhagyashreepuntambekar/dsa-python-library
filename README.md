@@ -12,7 +12,7 @@ This library covers core **data structures** and **algorithms**, including array
 - **Linked Lists**: Singly and doubly linked lists  
 - **Stacks & Queues**: Array-based and linked-list-based  
 - **Hash Tables**: Separate chaining implementation  
-- **Trees**: Binary tree, binary search tree, AVL tree 
+- **Trees**: Binary tree, binary search tree, AVL tree, Red-Black tree
 - **Heaps**: MinHeap and MaxHeap  
 - **Sorting Algorithms**: QuickSort, MergeSort, RadixSort  
 - **Graph Algorithms**: BFS, DFS, Dijkstra  
